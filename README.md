@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-  ### portfolio -https://trusting-euler-97d5c2.netlify.app/
-     
+  ### portfolio -https://nivetha-s.netlify.app/
 - 🔭 I’m currently working on many full stack web development projects
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about NEW TECH
-- 📫 How to reach me: https://www.linkedin.com/in/nivetha-sathiyanarayanan-06913665/
+- 📫 How to reach me: https://www.linkedin.com/in/nivetha-sathiyanarayan/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I work well while listening to songs.
 
@@ -32,13 +31,14 @@
 
 ### I Host at 📡
 <p align = 'center'>
-  <img src = 'https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
+  <img src = 'https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'> 
 </p>
 
 ### Currently learning 📚
 <p align = 'center'>
 <img src = 'https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white'>
  <img src = 'https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white'>
+  
 </p>
 
 ### My Toolbox 🧰
